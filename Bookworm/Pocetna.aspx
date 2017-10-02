@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Pocetna.aspx.cs" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Pocetna.aspx.cs" %>
 
 <!DOCTYPE html>
 <script runat="server">
@@ -31,7 +31,7 @@
 
         myCart = (Cart)Session["myCart"];
 
-        myCart.Add(new CartItem("Images/278_9_28_10__2__4_2014Игра%20на%20тронови.jpg","Џорџ Р.Р. Мартин","Игра на тронови", 499));
+        myCart.Add(new CartItem("Images/278_9_28_10__2__4_2014igra%20na%20tronovi.jpg","Џорџ Р.Р. Мартин","Игра на тронови", 499));
     }
 
     protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
@@ -211,7 +211,7 @@
                 <tr>
                     <td class="auto-style112">
                     &nbsp;&nbsp;&nbsp;
-                        <img class="auto-style110" src="Images/278_9_28_10__2__4_2014Игра%20на%20тронови.jpg" style="vertical-align: middle; text-align: center" /></td>
+                        <img class="auto-style110" src="Images/278_9_28_10__2__4_2014igra%20na%20tronovi.jpg" style="vertical-align: middle; text-align: center" /></td>
                     <td class="auto-style111">
                         <asp:Panel ID="Panel1" runat="server" Height="214px" Font-Names="Arial">
                             <strong><span class="auto-style113">Игра на тронови - </span><span class="auto-style114">Џорџ Р.Р. Мартин
