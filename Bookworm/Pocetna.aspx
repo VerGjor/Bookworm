@@ -31,7 +31,7 @@
 
         myCart = (Cart)Session["myCart"];
 
-        myCart.Add(new CartItem("Images/278_9_28_10__2__4_2014Игра%20на%20тронови.jpg","Џорџ Р.Р. Мартин","Игра на тронови", 499));
+        myCart.Add(new CartItem("Images/278_9_28_10__2__4_2014igra na tronovi.jpg","Џорџ Р.Р. Мартин","Игра на тронови", 499));
     }
 
     protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
