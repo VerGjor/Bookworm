@@ -184,7 +184,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="auto-style5" colspan="6" style="background-image: url('images/slider/1x.jpg'); background-repeat: no-repeat; background-position: center center; background-attachment: fixed">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <td class="auto-style5" colspan="6" style="background-image: url('images/1x.jpg'); background-repeat: no-repeat; background-position: center center; background-attachment: fixed">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <br />
                         <br />
                         <br />
